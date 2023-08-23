@@ -1,5 +1,5 @@
 Requirements
-- miniconda: https://conda.io/projects/conda/en/latest/user-guide/install/index.html-
+- miniconda: https://conda.io/projects/conda/en/latest/user-guide/install/index.html
 
 conda create --name myotest python=3.8
 conda activate myotest
